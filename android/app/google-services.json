@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057096459013",
+    "project_id": "login-app-fbd78",
+    "storage_bucket": "login-app-fbd78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057096459013:android:10c7a312a8f10f36388d6c",
+        "android_client_info": {
+          "package_name": "com.example.login_responsive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8WD5ol3JG6PC7egDAilhEHrRJIy-z2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
